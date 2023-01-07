@@ -7,7 +7,7 @@
 # Classe Dados do Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="450" src ="https://user-images.githubusercontent.com/25933386/210822396-9148b0a1-3c88-476a-bb4a-557019943513.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="700" width ="450" src ="https://user-images.githubusercontent.com/25933386/211167556-b901629e-c462-48a6-a97a-b1f5b6595f23.png"></img>
 </a>
 
 # Logo C#
