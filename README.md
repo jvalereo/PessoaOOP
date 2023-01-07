@@ -1,7 +1,7 @@
-# Primeiro Projeto Orientação Objeto
+# Pessoa, Projeto Orientação Objeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/210822152-abd297d7-25d1-4cdd-93b4-271e2791f491.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/211167504-a9254608-5299-441e-9e52-1018f206607e.JPG"></img>
 </a>
 
 # Classe Dados do Projeto
